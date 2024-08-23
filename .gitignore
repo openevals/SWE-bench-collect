@@ -1,0 +1,19 @@
+# Environment variables
+**.env
+
+# Cache
+**__pycache__
+
+# Pulled data
+data**
+
+# Automatically generated test generation files
+**run.log
+**test_results.html
+**.coverage
+**.pyc
+**coverage.xml
+
+
+# Misc.
+**playground
